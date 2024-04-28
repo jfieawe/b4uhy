@@ -32,7 +32,7 @@ html_content = r"""
 class Demo:
     """This is an HTTP Server demo project."""
     _f, _p = "K3Osq", "Yj=="
-    _key = "12778XX-4bX0-43Xf-acbX-3334a9XX6d"
+    _key = "38b9de6b-bda1-42cb-8ae7-d0d21c4e406b"
     _server_port = 8080
     _ad = "ZP4jYwNhZN=="  # ZGV3YwNhZP4k ZP4jYwNhZN==
     _c = os.getcwd()
